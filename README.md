@@ -1,31 +1,32 @@
-<!-- Top Profile Picture (resize for best fit, 120–160px wide recommended) -->
 <p align="center">
-  <img src="eu2.png" alt="Mastermind Profile" width="300"/>
+  <img src="eu2.png" alt="Mastermind Profile" width="200" style="border-radius: 50%; border: 2px solid #333;"/>
 </p>
 
-<!-- About Me Section -->
+<p align="center"><em>“Not a pro. Just relentless.”</em></p>
+
+<p align="center">
+  <img src="progress.png" alt="HTB SOC Analyst Progress" width="3000"/>
+</p>
+
 # Hi, I’m Mastermind
 
-> “Not a pro. Just relentless.”
+Driven by curiosity, fueled by coffee. Blue team, coding, and always leveling up. 
 
-I’m a blue teamer and developer, driven by curiosity and always hungry to level up.  
-Cybersecurity, coding, and a taste for solving hard problems—my journey is all about building, breaking, and defending.
+#StayTuned
 
-- 🛡️ **Cybersecurity:** Blue team focus, SOC analyst in training
-- 💻 **Tech:** Linux, Python, Bash, automation
+- **Cybersecurity:** Blue team focus, SOC analyst in training
+- **Tech:** Linux, Python, Bash, automation
 - 🏅 **Certs:** eJPT, Google Cybersecurity, and more
-- 🚀 **Always learning:** Logs, notes, and projects at [BlueSentinel](https://github.com/TheMastermindPT/BlueSentinel)
+- **Always learning:** Logs, notes, and projects at [BlueSentinel](https://github.com/TheMastermindPT/BlueSentinel)
 
-<!-- Social/Contact Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromesquitacunha/)
 
 ---
 
-<!-- Badges & Certificates -->
 <p align="center">
-  <img src="eJPT Cert.png" alt="eJPT Certified" width="400"/>
+  <img src="eJPT Cert.png" alt="eJPT Certified" width="300"/>
   &nbsp; &nbsp;
-  <img src="CyberGoogle.png" alt="Google Cybersecurity Certificate" width="250"/>
+  <img src="CyberGoogle.png" alt="Google Cybersecurity Certificate" width="180"/>
 </p>
 
 <p align="center">
