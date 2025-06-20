@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="eu2.png" alt="Mastermind Profile" width="200" style="border-radius: 50%; border: 2px solid #333;"/>
-</p>
-
-<p align="center"><em>“Not a pro. Just relentless.”</em></p>
-
-<p align="center">
   <img src="progress.png" alt="HTB SOC Analyst Progress" width="3000"/>
 </p>
 
