@@ -4,14 +4,12 @@
 
 # Hi, I’m Mastermind
 
-Driven by curiosity, fueled by coffee. Blue team, coding, and always leveling up. 
 
-#StayTuned
+Seven years ago, I was building and deploying web apps—hands-on with everything from HTML and CSS to modern JavaScript stacks. After stepping away, I’ve spent the last year shifting gears and going deep into cybersecurity.
+Now, I’m putting in the hours to master blue team skills: SOC operations, Linux, Python, Bash, and real-world security labs. I thrive on breaking down problems, building solutions, and learning through direct action—not just theory.
+I’m currently stacking up industry certs (eJPT, Google Cybersecurity, and more), documenting everything I learn, and making the transition from developer to defender. My goal: join a security team where I can apply my builder’s mindset to defending systems and responding to real threats.
 
-- **Cybersecurity:** Blue team focus, SOC analyst in training
-- **Tech:** Linux, Python, Bash, automation
-- 🏅 **Certs:** eJPT, Google Cybersecurity, and more
-- **Always learning:** Logs, notes, and projects at [BlueSentinel](https://github.com/TheMastermindPT/BlueSentinel)
+📍 Porto | Open to SOC analyst, blue team, or junior security roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromesquitacunha/)
 
