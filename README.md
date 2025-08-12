@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="progress.png" alt="HTB SOC Analyst Progress" width="3000"/>
+  <img src="linkedin_banner_blueteam.jpg" alt="HTB SOC Analyst Progress" width="3000"/>
 </p>
 
 # Hi, I’m Mastermind
